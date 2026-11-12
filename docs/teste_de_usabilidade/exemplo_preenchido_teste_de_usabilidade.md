@@ -107,9 +107,3 @@ O teste de usabilidade demonstrou que o sistema **LabReserve** possui uma base v
 1. Corrigir imediatamente o problema crítico **PROB-01**, tornando a edição de reservas visível e direta.
 2. Ajustar a retenção de dados no formulário e aplicar validação preventiva (**PROB-02**).
 3. Revisar os textos da interface para eliminar jargões técnicos (**PROB-03**) e incluir a capacidade visível nas salas (**PROB-04**).
-
-## Anexos (Evidências)
-
-* *Anexo A:* Termos de Consentimento Livre e Esclarecido (TCLE) assinados pelos participantes P1 a P5 (arquivados na pasta `/docs/tcle/`).
-* *Anexo B:* Planilha de cálculo bruto das respostas do questionário SUS (`/docs/dados_sus.xlsx`).
-* *Anexo C:* Gravações em vídeo das sessões de teste com protocolo *Think Aloud* (`/evidencias/gravacoes/`).
